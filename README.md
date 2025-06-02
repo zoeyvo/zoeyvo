@@ -13,7 +13,6 @@
 I'm Zoey Vo (she/her), a software engineer passionate about building clean, scalable web applications leveraging AI to make meaningful impacts on marginalized communities.
 
 ## 🔭 I'm currently working on
-- My portfolio website at [zoeyvo.net](https://github.com/zoeyvo/zoey-vo-portfolio)
 - Learning about RAG systems, LLMs, and AI agents
 
 ## 🌱 I'm currently learning
