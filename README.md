@@ -39,4 +39,4 @@ I'm Zoey Vo (she/her), a software engineer passionate about building clean, scal
 - LinkedIn: [/in/zoeyvo](https://www.linkedin.com/in/zoeyvo)
 
 ## ❤️ Fun fact
-I'm a UC Davis Computer Science student graduating in 2025, and I love minimalist design and retro computing aesthetics.
+I'm a UC Davis Computer Science student graduating in 2025, and I love retro computing aesthetics.
