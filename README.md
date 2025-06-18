@@ -36,7 +36,4 @@ I'm Zoey Vo (she/her), a software engineer passionate about building clean, scal
 ## 📫 How to reach me
 - Portfolio: [zoeyvo.net](https://zoeyvo.net)
 - Email: zoeyvo256@gmail.com
-- LinkedIn: [/in/zoeyvo](https://www.linkedin.com/in/zoeyvo)
-
-## ❤️ Fun fact
-I'm a UC Davis Computer Science student graduating in 2025, and I love retro computing aesthetics.
+- LinkedIn: [/in/zoeyvo](https://www.linkedin.com/in/zoeyvo
