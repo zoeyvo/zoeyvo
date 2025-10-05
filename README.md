@@ -17,10 +17,12 @@
 
 
 # Hi there 👋
-I'm Zoey Vo (she/her), a software engineer passionate about building clean, scalable web applications leveraging AI to make meaningful impacts on marginalized communities.
+I'm Zoey Vo (she/her), a software engineer passionate about building clean, scalable web applications leveraging AI to make meaningful impacts on local communities.
 
 ## 🔭 I'm currently working on
+- Building cross-platform mobile apps with React Native and TypeScript and implementing backend services using Firebase/Firestore.
 - Learning about RAG systems, LLMs, and AI agents
+
 
 ## 🌱 I'm currently learning
 - Advanced React patterns and performance optimization
@@ -28,10 +30,12 @@ I'm Zoey Vo (she/her), a software engineer passionate about building clean, scal
 - Cloud infrastructure and DevOps practices
 
 ## 💻 Tech Stack
-- **Programming Languages:** C++, Python, Java, JavaScript, TypeScript
-- **Web Development:** Node.js, React.js, Svelte, HTML5, CSS3, SCSS
-- **Databases & Backend:** PostgreSQL (PostGIS), Redis, Flask, MongoDB
-- **DevOps & Infrastructure:** Docker, Prometheus, Grafana, GCP
+- **Programming Languages**: C++, Python, Java, JavaScript, TypeScript
+- **Frontend**: React.js, React Native, Svelte, Vite, HTML5, CSS3, SCSS
+- **Backend**: Node.js, Express.js, Flask, OAuth, JWT, RESTful API’s
+- **Databases**: PostgreSQL/PostGIS, MongoDB, Redis, Firestore
+- **DevOps & Cloud**: Docker, Google Cloud Platform (GCP), Vercel
+- **IDEs & Development Tools**: Visual Studio, IntelliJ IDEA
 
 ## 📫 How to reach me
 - Portfolio: [zoeyvo.net](https://zoeyvo.net)
