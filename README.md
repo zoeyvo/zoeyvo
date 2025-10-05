@@ -21,13 +21,10 @@ I'm Zoey Vo (she/her), a software engineer passionate about building clean, scal
 
 ## 🔭 I'm currently working on
 - Building cross-platform mobile apps with React Native and TypeScript and implementing backend services using Firebase/Firestore.
-- Learning about RAG systems, LLMs, and AI agents
 
 
 ## 🌱 I'm currently learning
-- Advanced React patterns and performance optimization
-- Machine learning and AI integration in web applications
-- Cloud infrastructure and DevOps practices
+- RAG systems, LLMs, and AI agents
 
 ## 💻 Tech Stack
 - **Programming Languages**: C++, Python, Java, JavaScript, TypeScript
