@@ -37,4 +37,4 @@ I'm Zoey Vo (she/her), a software engineer passionate about building clean, scal
 ## 📫 How to reach me
 - Portfolio: [zoeyvo.net](https://zoeyvo.net)
 - Email: zoeyvo256@gmail.com
-- LinkedIn: [/in/zoeyvo](https://www.linkedin.com/in/zoeyvo
+- LinkedIn: [/in/zoeyvo](https://www.linkedin.com/in/zoeyvo)
