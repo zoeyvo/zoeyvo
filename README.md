@@ -11,7 +11,7 @@
 </pre>
 </div>
 
-## Hi there 👋
+## 👋 Hi there
 I’m Zoey Vo (she/her), a detail-oriented Software Engineer passionate about building scalable, community-focused apps.  
 Currently, I’m a Full Stack Intern at Icarus Development, creating cross-platform mobile apps with React Native & TypeScript and backend services using Firebase/Firestore.  
 
