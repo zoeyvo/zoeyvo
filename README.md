@@ -57,6 +57,7 @@ Currently, I’m a Full Stack Intern at Icarus Development, creating cross-platf
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ## 📫 Contact Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-zoeyvo.net-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zoeyvo.net)
-[![Email](https://img.shields.io/badge/Gmail-zoeyvo256@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zoeyvo256@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-zoeyvo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zoeyvo)
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-CC6699?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zoeyvo.net)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1572B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zoeyvo)
+[![Email](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zoeyvo256@gmail.com)
